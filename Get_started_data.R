@@ -1,3 +1,5 @@
+#Author ***Crisencia Sizyoongo***
+
 rm(list=ls(all=TRUE))
 setwd("~/Desktop/Master*s project/code")
 #data1 contains all the varibles separated by tabs
