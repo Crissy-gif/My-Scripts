@@ -1,3 +1,7 @@
+################################################################################################
+# Script for Distance Matrix for visualization mutiple datasets in tableau                      #
+################################################################################################
+
 rm(list = ls(all=TRUE))
 
 setwd("~/Documents/Pelago_Project/Multiple Datasets")
